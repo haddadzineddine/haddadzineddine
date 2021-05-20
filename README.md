@@ -1,4 +1,4 @@
-<!--
+
 ██╗  ██╗███████╗██╗     ██╗      ██████╗     ██╗    ██╗ ██████╗ ██████╗ ██╗     ██████╗
 ██║  ██║██╔════╝██║     ██║     ██╔═══██╗    ██║    ██║██╔═══██╗██╔══██╗██║     ██╔══██╗
 ███████║█████╗  ██║     ██║     ██║   ██║    ██║ █╗ ██║██║   ██║██████╔╝██║     ██║  ██║
@@ -21,7 +21,7 @@ else if (geek) {
 else {
   goto: 404
 }
--->
+
 
 ### Hi there 👋
 
@@ -31,8 +31,8 @@ I'm a computer science student @ESI-ALG.
 Have a look at my skills or just connect with me on [LinkedIn](https://www.linkedin.com/in/zineddine-haddad-221aa019a/) OR [Twitter](https://twitter.com/zineddine_dz_21).
 
 I am always excited to do business, lets discuss over coffee. 
-Email: Hz_haddad@esi.dz 
-Phone +213 (0) 658354049
+Email: Hz_haddad@esi.dz/ 
+Phone +213 (0) 658354049/
 
 - ⚡ I'm available for **Freelancing** and also I'm looking for a new opportunities.
 - ⚡ Fun fact: facts are never fun

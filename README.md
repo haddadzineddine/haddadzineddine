@@ -1,20 +1,44 @@
+<!--
+██╗  ██╗███████╗██╗     ██╗      ██████╗     ██╗    ██╗ ██████╗ ██████╗ ██╗     ██████╗
+██║  ██║██╔════╝██║     ██║     ██╔═══██╗    ██║    ██║██╔═══██╗██╔══██╗██║     ██╔══██╗
+███████║█████╗  ██║     ██║     ██║   ██║    ██║ █╗ ██║██║   ██║██████╔╝██║     ██║  ██║
+██╔══██║██╔══╝  ██║     ██║     ██║   ██║    ██║███╗██║██║   ██║██╔══██╗██║     ██║  ██║
+██║  ██║███████╗███████╗███████╗╚██████╔╝    ╚███╔███╔╝╚██████╔╝██║  ██║███████╗██████╔╝
+╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝      ╚══╝╚══╝  ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═════╝
+
+Greetings !
+
+if (employer) {
+  yes, I'm always looking for great opportunities;
+}
+else if (want a website) {
+  ping me ! lets discuss how will I help you;
+}
+else if (geek) {
+  hi, I love to be friends with like minded people.
+  Message me, maybe we could help each other.
+}
+else {
+  goto: 404
+}
+-->
+
 ### Hi there 👋
 
-I'm **HADDAD Zineddine** 21 years old,Student at higher national school of computer science , 
-I'm **from Algeria**.I am always interesting about learning and develop myself, and it made me a lifelong learner.
-I have an experience in **web and mobile development**.\
+Hi I'm Hadadd Zineddine, a 21 years old web and mobile developer living in skikda , algeria.
+I'm a computer science student @ESI-ALG.
 
+Have a look at my skills or just connect with me on [LinkedIn](https://www.linkedin.com/in/zineddine-haddad-221aa019a/) OR [Twitter](https://twitter.com/zineddine_dz_21).
 
-- ⚡ I'm available for ** ⚡⚡ freelancing ⚡⚡ ** and also I'm looking for a new opportunities.
+I am always excited to do business, lets discuss over coffee. 
+Email: Hz_haddad@esi.dz 
+Phone +213 (0) 658354049
+
+- ⚡ I'm available for **Freelancing** and also I'm looking for a new opportunities.
 - ⚡ Fun fact: facts are never fun
 - 💬 Ask me about anything
 - 👯 I’m looking to collaborate on anything really
 
-### ✨  You can always **Contact Me at :**
-
-Email: Hz_haddad@esi.dz \
-Phone +213 (0) 658354049\
-[LinkedIn](https://www.linkedin.com/in/zineddine-haddad-221aa019a/) | [Twitter](https://www.example.com) @Zineddine_Ha
 
 Please don't forget to star ⭐  my repositories if you find them interesting :)
 

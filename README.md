@@ -34,10 +34,10 @@ I am always excited to do business, lets discuss over coffee.
 - Email: Hz_haddad@esi.dz
 - Phone +213 (0) 658354049
 
-- ⚡ I'm available for **Freelancing** and also I'm looking for a new opportunities.
-- ⚡ Fun fact: facts are never fun
-- 💬 Ask me about anything
-- 👯 I’m looking to collaborate on anything really
+*I'm available for **Freelancing** and also I'm looking for a new opportunities.
+*Fun fact: facts are never fun
+*Ask me about anything
+*I’m looking to collaborate on anything really
 
 
 Please don't forget to star ⭐  my repositories if you find them interesting :)

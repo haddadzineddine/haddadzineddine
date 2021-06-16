@@ -29,8 +29,7 @@ Hi I'm Hadadd Zineddine, a 21 years old web and mobile developer living in skikd
 I'm a computer science student @ESI-ALG.
 
 - I'm available for **Freelancing** and also I'm looking for a new opportunities.
-- Fun fact: facts are never fun
-- Ask me about anything
+- Ask me about anything in [ JS , PHP ]
 - I’m looking to collaborate on anything really
 
 Have a look at my skills or just connect with me on [LinkedIn](https://www.linkedin.com/in/haddadzienddine/) OR [Twitter](https://twitter.com/zineddine_dz_21).
@@ -52,7 +51,6 @@ Please don't forget to star ⭐  my repositories if you find them interesting :)
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 ### Github Stats & Top Langs :
 
